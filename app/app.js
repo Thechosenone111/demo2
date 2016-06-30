@@ -4,7 +4,12 @@ var c = "学的太差了";
 var d = "找工作难啊";
 var e ="顺利点儿顺利点儿"
 
+var lyl={};
+lyl.a=a;
+lyl.say= function () {
+  console.log(this.a)
 
+}
 
 var express = require('express');
 var path = require('path');
