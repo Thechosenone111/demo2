@@ -3,7 +3,10 @@ var b = "心情不行啊";
 var c = "学的太差了";
 var d = "找工作难啊";
 var e ="顺利点儿顺利点儿"
+
 var f = "我要成功"
+
+
 
 
 var express = require('express');
